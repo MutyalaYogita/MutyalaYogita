@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MutyalaYogita
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL and Excel
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on open source projects in the Data Analysis and Machine Learning
 - 📫 How to reach me: mutylayogita@gmail.com
 
